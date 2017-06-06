@@ -2,7 +2,7 @@
 Console Java program to calculate parameters of line with the least-squares approximation
 
 For the purpose of this task, I used the algorithm contained in the website:
-http://www.algorytm.org/procedures/numeric/method-nextricks.html
+http://www.algorytm.org/procedury-numeryczne/metoda-najmniejszychkwadratow.html 
 
 You can run a Java program in two ways:
 
